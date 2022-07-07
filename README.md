@@ -1,3 +1,3 @@
 # Desafio dio Git/GitHub
 
-### desafio de projeto sobre git/github
+### repositório criado para o desafio de projeto.
